@@ -1,39 +1,67 @@
-# Netflix Movies & Shows Analysis
+# 📺 Netflix Movies & Shows Analysis
 
-## Project Overview
-This project analyzes Netflix’s movie and TV show dataset to explore trends such as content types, genres, countries of origin, ratings, and durations.
-
-## Dataset
-Data sourced from [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows).
-
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
-- WordCloud
-
-## Key Insights
-- Distribution of Movies vs TV Shows
-- Content added over the years
-- Top countries producing Netflix content
-- Popular genres and rating breakdown
-- Movie duration analysis
-- Genre word cloud visualization
-
-## Visualizations
-![Type Distribution](type_distribution.png)
-![Content Over Time](content_over_time.png)
-![Top Countries](top_countries.png)
-![Genre Counts](genre_counts.png)
-![Rating Distribution](rating_distribution.png)
-![Duration Histogram](duration_histogram.png)
-![Genre Word Cloud](genre_wordcloud.png)
-
-## How to Run
-1. Clone the repo
-2. Open the Jupyter Notebook
-3. Run the cells step-by-step
+This project explores Netflix’s movie and TV show dataset to uncover trends in content types, genres, countries of origin, ratings, and durations.
 
 ---
 
-Feel free to edit this README in your repo and add anything you like!  
-When you’re ready, I can help you push your project to GitHub. Want to do that next?
+## 📁 Dataset
+
+- Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)  
+- Contains details on movies and TV shows available on Netflix, including metadata like genres, countries, ratings, and durations.
+
+---
+
+## 🌍 Content Overview
+
+- Movies vs TV Shows distribution  
+- Content added over the years  
+- Top countries producing Netflix content  
+- Popular genres and rating breakdown  
+- Movie duration analysis
+
+---
+
+## 📈 Visualizations
+
+### 1. Content Type Distribution  
+![Type Distribution](type_distribution.png)
+
+### 2. Content Added Over Time  
+![Content Over Time](content_over_time.png)
+
+### 3. Top Countries Producing Content  
+![Top Countries](top_countries.png)
+
+### 4. Genre Counts  
+![Genre Counts](genre_counts.png)
+
+### 5. Rating Distribution  
+![Rating Distribution](rating_distribution.png)
+
+### 6. Movie Duration Histogram  
+![Duration Histogram](duration_histogram.png)
+
+### 7. Genre Word Cloud  
+![Genre Word Cloud](genre_wordcloud.png)
+
+---
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+- WordCloud
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository  
+2. Open the Jupyter Notebook  
+3. Run the notebook cells sequentially  
+
+---
+
+## 📌 Author
+
+Made with ❤️ by [Farah]
